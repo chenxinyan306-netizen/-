@@ -1,0 +1,8 @@
+
+{
+  "name": "Dreamy Xmas 3D",
+  "description": "A high-fidelity 3D Christmas experience featuring instanced geometry, hand-gesture controls using MediaPipe, and a dream-tech pink aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
